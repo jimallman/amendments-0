@@ -9,6 +9,10 @@
         {
             "source_type": "The taxon is described in this study",
             "source": null
+        },
+        {
+            "source_type": "Link (DOI) to publication",
+            "source": "10.123456/789"
         }
     ],
     "comment": "A simple test amendment."
